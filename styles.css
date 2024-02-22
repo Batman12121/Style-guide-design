@@ -1,0 +1,142 @@
+#header1 {
+    margin-left: 100px;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+#colors {
+    font-family: monospace, sans-serif;
+}
+
+.div {
+    border: 2px solid black;
+    margin-left: 100px;
+    margin-right: 200px;
+    margin-top: 50px;
+    padding: 20px;
+}
+
+#aqua {
+    border: 1px solid #00FFFF;
+    background-color: #00FFFF;
+    text-align: center;
+    padding: 30px;
+    display: inline-flex;
+}
+
+#crimson {
+    border: 1px solid #DC143C;
+    background-color: #DC143C;
+    color: white;
+    text-align: center;
+    padding: 30px;
+    display: inline-flex;
+}
+
+#gold {
+    border: 1px solid #FFD700;
+    background-color: #FFD700;
+    text-align: center;
+    padding: 30px;
+    display: inline-flex;
+}
+
+.div {
+    border: 2px solid black;
+    margin-left: 100px;
+    margin-right: 200px;
+    margin-top: 50px;
+    padding: 20px;
+}
+
+#fonts {
+    font-family: monospace, sans-serif;
+    margin-bottom: 50px;
+}
+
+#robotoHead {
+    text-decoration: underline;
+    font-family: "Roboto", sans-serif;
+}
+
+#robotoPlain {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+}
+
+#robotoBold {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+}
+
+#robotoItalic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+#ralewayHead {
+    font-family: "Raleway", sans-serif;
+    text-decoration: underline;
+    margin-top: 50px;
+}
+
+#ralewayPlain {
+    font-family: "Raleway", sans-serif;
+    font-weight: 400;
+}
+
+#ralewayBold {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+}
+
+#ralewayItalic {
+    font-family: "Raleway", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+#merriweatherHead {
+    font-family: "Merriweather", serif;
+    text-decoration: underline;
+    margin-top: 50px;
+}
+
+#merriweatherPlain {
+    font-family: "Merriweather", serif;
+    font-weight: 400;
+}
+
+#merriweatherBold {
+    font-family: "Merriweather", serif;
+    font-weight: 700;
+}
+
+#merriweatherItalic {
+    font-family: "Merriweather", serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+#textStyles {
+    font-family: "Roboto", sans-serif;
+    margin-bottom: 50px;
+}
+
+#H1 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 26px;
+}
+
+#H2 {
+    font-family: "Raleway", sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+#P {
+    font-family: "Merriweather", serif;
+    font-weight: 400;
+    font-size: 14px;
+}
